@@ -2,4 +2,4 @@
 
 # Todo Bien
 
-me llamo cristian y estoy aprendiendo ia full stack developeer
+me llamo cristian y estoy aprendiendo ia full stack developer
